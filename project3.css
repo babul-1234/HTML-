@@ -1,0 +1,59 @@
+.container {
+    width: 100%;
+    height: 700px;
+    background-image: url(library.jpg);
+}
+
+.box {
+    text-align: center;
+    position: relative;
+    top: 100px;
+    text-decoration: dashed;
+    width: 500px;
+    height: 50px;
+    background-color: blueviolet;
+    padding-bottom: 10px;
+    left: 30%;
+    text-decoration: underline;
+    border-radius: 20px;
+    color: azure;
+}
+
+.main {
+    position: relative;
+    width: 500px;
+    height: 200px;
+    background-color: darkgray;
+    top: 150px;
+    left: 30%;
+    border-radius: 20px;
+}
+
+#srijan {
+    text-align: center;
+    color: darkcyan;
+    text-decoration: underline;
+    border-radius: 20px;
+}
+
+#babul {
+    text-transform: lowercase;
+    text-align: center;
+    color: darkmagenta;
+    border-radius: 20px;
+}
+
+#rout {
+    width: 50px;
+    height: 30px;
+    position: relative;
+    left: 40%;
+    background-color: green;
+}
+
+#about {
+    position: relative;
+    top: 200px;
+    left: 30%;
+    text-decoration: underline;
+}
